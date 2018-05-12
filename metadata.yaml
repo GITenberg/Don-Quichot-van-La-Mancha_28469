@@ -1,0 +1,48 @@
+_repo: Don-Quichot-van-La-Mancha_28469
+_version: 0.1.0
+alternative_title: Avonturen van Don Quichot
+covers:
+- cover_type: archival
+  image_path: 28469-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+  editor:
+    agent_name: Goeverneur, J. J. A. (Johan Jacob Antonie)
+    aliases:
+    - Goeverneur, Johan Jacob Antonie
+    - Goeverneur, J.J.A.
+    birthdate: 1809
+    deathdate: 1889
+    gutenberg_agent_id: '32864'
+    url: http://www.gutenberg.org/2009/agents/32864
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2009-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28469'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+title: Don Quichot van La Mancha
+url: http://www.gutenberg.org/ebooks/28469
